@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.lavan_32428068.t3_b">
+    package="com.example.ftm.t3c">
 
     <application
         android:allowBackup="true"
